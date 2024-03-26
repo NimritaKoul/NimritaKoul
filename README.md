@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NimritaKoul
-- 👀 I’m interested in Data Science, Data Visualization, Machine Learning and Natural Langauge Processing
+- 👀 I’m interested in Data Science, Data Visualization, Machine Learning and Natural Langauge Processing.
+- 💞️ I love coding in Python, hence the profile pic.
 - 💞️ I’m looking to collaborate on projects in Natural Language Processing.
 
 
